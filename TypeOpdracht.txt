@@ -1,0 +1,1 @@
+bool, int, Bitmap, readonly int, string name, float
